@@ -1,2 +1,2 @@
-# my-code-show
+# My Code Show Blogs Repo
 Blog Comments for MyCodeShow Blogging Site.
